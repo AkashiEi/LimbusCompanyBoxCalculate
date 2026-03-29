@@ -1,0 +1,11 @@
+{
+  "items": [
+  ],
+  "settings": {
+    "type_filter": "ALL",
+    "season_filter": "ALL",
+    "time_weeks": 10,
+    "weekly_mirror_count": 10,
+    "current_boxes": 195
+  }
+}
